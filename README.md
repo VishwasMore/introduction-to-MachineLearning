@@ -21,4 +21,4 @@ platforms
 ### 4. Scikit Learn
 - Scikit-learn is an open source Python library that implements a range of machine learning, preprocessing, cross-validation and visualization algorithms using a unified interface
 - Documentation -> https://scikit-learn.org/stable/
-- - Notebook -> [Into to Scikit-Learn](https://github.com/VishwasMore/introduction-to-MachineLearning/blob/master/introduction-to-scikit-learn.ipynb)
+- Notebook -> [Into to Scikit-Learn](https://github.com/VishwasMore/introduction-to-MachineLearning/blob/master/introduction-to-scikit-learn.ipynb)
